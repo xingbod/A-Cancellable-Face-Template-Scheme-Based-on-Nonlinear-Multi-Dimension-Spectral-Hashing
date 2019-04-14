@@ -1,0 +1,4 @@
+Verification:
+	@ FAR = 0.1%: VR = 90.01% ¡À 2.16%.
+Open-set Identification:
+	@ Rank = 1, FAR = 1%: DIR = 68.38% ¡À 2.81%.
